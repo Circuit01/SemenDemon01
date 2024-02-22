@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SemenDemon01
-- 👀 I’m interested in python and sea men
+- 👋 Hi, I’m @Circu1t
+- 👀 I’m interested in python, web dev, and cyber security
 - 🌱 I’m currently learning cyber security and programming
-- 💞️ I’m looking to collaborate on whatever makes me the big bucks
-- 📫 How to reach me bat signal (Im BatMan)
+- 💞️ I’m open to collaborate on anything within my capabilities 
+- 📫 How to reach me: My discord in my bio
 
 
